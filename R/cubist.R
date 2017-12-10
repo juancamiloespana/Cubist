@@ -4,6 +4,8 @@ cubist <-  function(x, ...) UseMethod("cubist")
 #About the Cubist C code and our approach here...
 ###Probando modificaciones
 
+###Otra modificación
+
 # 1) The cubist code is written to take specific data files from
 #  the file system, pull them into memory, run the computations,
 #  then write the results to a text file that is also saved to the
