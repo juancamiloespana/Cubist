@@ -51,6 +51,7 @@
 void Regress(CaseNo Fp, CaseNo Lp, double *Model)
 /*   -------  */
 {
+  int prueba;
   CaseNo i, Kp;
   int j, jj, k, kk;
   ContValue ClassVal, JVal;
